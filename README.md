@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<a href="https://twitter.com/hajynsrat">
+  <img align="left" alt="Hajy Nsrat | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+
 <!--
 **haji-nsrat/haji-nsrat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
