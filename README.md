@@ -20,7 +20,7 @@
 
 <br/>
   
-🌏 I speak three languages:
+# I speak three languages 🌏:
 - Kurdy   (Native)
 - English (Proficient)
 - Arbic   (Intermediate)
