@@ -1,7 +1,16 @@
 ### Hi there 👋
+My name is Hajy
+Languages: Kurdy, English, Arabic
+Programming Languages: c++, c#, python, javascript
+
+📫 You can reach me via twitter 
 
 <a href="https://twitter.com/hajynsrat">
   <img align="left" alt="Hajy Nsrat | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+
+<a href="https://leetcode.com/hajy_nsrat/">
+  <img align="left" alt="Hajy Nsrat | leetcode" width="22px" src="https://iconape.com/wp-content/files/jf/122399/png/LeetCode_logo_white_no_text.png" />
 </a>
 
 <!--
