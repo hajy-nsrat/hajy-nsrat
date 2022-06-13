@@ -1,5 +1,5 @@
 ### Hi there 👋, I’m hajy && i ❤ code
-
+<hr>
 <a href="https://twitter.com/hajynsrat">
   <img align="left" alt="Hajy Nsrat | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
