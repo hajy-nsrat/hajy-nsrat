@@ -17,13 +17,13 @@
 #### Skills
 
 <c><img height="30" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"><c>&ensp;
-<c><img height="30" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"><c>&emsp;
-<c><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"><c> 
-<c><img height="30" src="https://www.pikpng.com/pngl/b/146-1469146_java-logo-transparent-png.png"><c>
-<c><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"><c>
-<c><img height="30" src="https://logos-download.com/wp-content/uploads/2017/07/HTML5_badge.png"><c>
-<c><img height="30" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-512.png"><c>
-<c><img height="30" src="https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png"><c>
+<c><img height="30" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"><c>&ensp;
+<c><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"><c> &ensp;
+<c><img height="30" src="https://www.pikpng.com/pngl/b/146-1469146_java-logo-transparent-png.png"><c>&ensp;
+<c><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"><c>&ensp;
+<c><img height="30" src="https://logos-download.com/wp-content/uploads/2017/07/HTML5_badge.png"><c>&ensp;
+<c><img height="30" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-512.png"><c>&ensp;
+<c><img height="30" src="https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png"><c>&ensp;
 <c><img height="30" src="https://www.scottbrady91.com/img/logos/dart.png"><c>
 
 #### I speak three languages 🌏
