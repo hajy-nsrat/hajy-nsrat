@@ -14,7 +14,7 @@
 
 <br/>
 
-#### Skills
+#### Skills:
 
 <c><img height="30" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"><c>&ensp;
 <c><img height="30" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"><c>&ensp;
