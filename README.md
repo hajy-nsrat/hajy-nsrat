@@ -5,7 +5,7 @@
 📫 How to reach me:
 
 <a href="https://twitter.com/hajynsrat">
-  <img align="left" alt="Hajy Nsrat | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Hajy Nsrat | Twitter" width="22px" src="https://www.bing.com/images/search?view=detailV2&ccid=P3GJZi8Z&id=A96347EFC62357AD525F72199FB675DAE879AF41&thid=OIP.P3GJZi8Z-DGPx1JS3u5yOgHaGl&mediaurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.3f7189662f19f8318fc75252deee723a%3frik%3dQa956Np1tp8Zcg%26riu%3dhttp%253a%252f%252f1000logos.net%252fwp-content%252fuploads%252f2017%252f06%252fTwitter-Logo.png%26ehk%3d6ekNd2ZmhpvFDGRZF19QcumP9fb8pZRkwrbFbK%252bpULA%253d%26risl%3d%26pid%3dImgRaw%26r%3d0&exph=1200&expw=1350&q=twitter+logo&simid=608030755337813258&FORM=IRPRST&ck=098CDA14D98D2FBA8C7F1477C3290A3D&selectedIndex=0&idpp=overlayview&ajaxhist=0&ajaxserp=0" />
 </a>
 
 <a href="https://leetcode.com/hajy_nsrat/">
