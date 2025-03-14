@@ -9,7 +9,7 @@
 </a>
 
 <a href="https://leetcode.com/hajy_nsrat/">
-  <img align="left" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" />
+  <img align="left" width="22px" src="https://iconape.com/wp-content/files/jf/122399/png/LeetCode_logo_white_no_text.png" />
 </a>
 
 <br/>
