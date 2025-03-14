@@ -5,11 +5,11 @@
 #### 📫 How to reach me:
 
 <a href="https://https://x.com/hajynsrat">
-  <img align="left" alt="Hajy Nsrat | Twitter" width="22px" src="" />
+  <img align="left" width="22px" src="https://cdn.prod.website-files.com/5d66bdc65e51a0d114d15891/64cebdd90aef8ef8c749e848_X-EverythingApp-Logo-Twitter.jpg" />
 </a>
 
 <a href="https://leetcode.com/hajy_nsrat/">
-  <img align="left" alt="Hajy Nsrat | leetcode" width="22px" src="[https://iconape.com/wp-content/files/jf/122399/png/LeetCode_logo_white_no_text.png](https://cdn.prod.website-files.com/5d66bdc65e51a0d114d15891/64cebdd90aef8ef8c749e848_X-EverythingApp-Logo-Twitter.jpg)" />
+  <img align="left" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" />
 </a>
 
 <br/>
