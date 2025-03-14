@@ -4,12 +4,12 @@
 
 #### 📫 How to reach me:
 
-<a href="https://twitter.com/hajynsrat">
-  <img align="left" alt="Hajy Nsrat | Twitter" width="22px" src="https://logos-download.com/wp-content/uploads/2016/02/Twitter_Logo_new.png" />
+<a href="https://https://x.com/hajynsrat">
+  <img align="left" alt="Hajy Nsrat | Twitter" width="22px" src="" />
 </a>
 
 <a href="https://leetcode.com/hajy_nsrat/">
-  <img align="left" alt="Hajy Nsrat | leetcode" width="22px" src="https://iconape.com/wp-content/files/jf/122399/png/LeetCode_logo_white_no_text.png" />
+  <img align="left" alt="Hajy Nsrat | leetcode" width="22px" src="[https://iconape.com/wp-content/files/jf/122399/png/LeetCode_logo_white_no_text.png](https://cdn.prod.website-files.com/5d66bdc65e51a0d114d15891/64cebdd90aef8ef8c749e848_X-EverythingApp-Logo-Twitter.jpg)" />
 </a>
 
 <br/>
@@ -17,7 +17,6 @@
 #### Skills:
 
 <c><img height="30" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"><c>&ensp;
-<c><img height="30" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"><c>&ensp;
 <c><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"><c> &ensp; <br/>
 <c><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"><c>&ensp;
 <c><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"><c>&ensp;
